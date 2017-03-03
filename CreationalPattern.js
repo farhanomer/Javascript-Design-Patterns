@@ -1,10 +1,10 @@
 /**
- * Thanks for all  human developers and programmers
- *'Patterns Of Enterprise Application Architecture' by Martin Fowler
- * 'JavaScript Patterns' by Stoyan Stefanov
+ *  Thanks to  God who created   human developers and programmers
+ *  'Patterns Of Enterprise Application Architecture' by Martin Fowler
+ *  'JavaScript Patterns' by Stoyan Stefanov
  * ‘Pro JavaScript Design Patterns’ by Ross Harmes and Dustin Diaz.
  *
- * Thanks to Essential JavaScript Design Patterns Author Addy Osmani
+ *  Thanks to Essential JavaScript Design Patterns Author Addy Osmani
  */
 /**
  *
