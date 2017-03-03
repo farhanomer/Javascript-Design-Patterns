@@ -1,14 +1,13 @@
 /**
- *  Thanks to  God who created  all humans
+ *   Thanks to  God who created  all humans
+ *   Thanks to  God's  all creation especially programmers and developers
  *  'Patterns Of Enterprise Application Architecture' by Martin Fowler
  *  'JavaScript Patterns' by Stoyan Stefanov
  * ‘Pro JavaScript Design Patterns’ by Ross Harmes and Dustin Diaz.
  *
  *  Thanks to Essential JavaScript Design Patterns Author Addy Osmani
- */
-/**
  *
- * Created by Farhan Omer on 3/2/2017.
+ *  Created by Farhan Omer on 3/2/2017.
  */
 
 // Three different way of creating object in Javascript
