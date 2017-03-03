@@ -39,3 +39,4 @@ var defineProp = function ( obj, key, value ){
     config.value = value;
     Object.defineProperty(obj, key, config);
 }
+
