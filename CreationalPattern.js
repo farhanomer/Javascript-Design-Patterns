@@ -1,5 +1,5 @@
 /**
- *  Thanks to  God who created   human developers and programmers
+ *  Thanks to  God who created  all humans
  *  'Patterns Of Enterprise Application Architecture' by Martin Fowler
  *  'JavaScript Patterns' by Stoyan Stefanov
  * ‘Pro JavaScript Design Patterns’ by Ross Harmes and Dustin Diaz.
