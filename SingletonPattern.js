@@ -40,7 +40,7 @@ function ImplementSingletonObject() {
     var object1 = Singleton.getInstance();
     var object2 = Singleton.getInstance();
 
-    alert(" Is it same ject? " + (instance1 === instance2));
+    alert(" Is it same object? " + (instance1 === instance2));
 }
 
 
